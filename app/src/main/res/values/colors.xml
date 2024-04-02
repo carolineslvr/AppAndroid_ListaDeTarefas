@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primaryColor">#7A51C5</color>
+    <color name="primaryDarkColor">#4F2698</color>
+    <color name="colorAccent">#7334E3</color>
+    <color name="colorFundoCaixa">#E6DBFA</color>
+</resources>
